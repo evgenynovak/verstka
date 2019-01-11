@@ -1,13 +1,17 @@
-header {
-    background-color: #FD739C;
-    color: white;
+
+body {
+    font-size: 22px;
+    line-height: 34px;
 }
 
-h1,h2 {
+header,
+nav {
+    background-color: #FD739C;
+    color: white;
     font-family: "Helvetica", "Arial", sans-serif;
 }
 
-p {
-    font-size: 22px;
-    line-height: 34px;
+h1,
+h2 {
+    font-family: "Helvetica", "Arial", sans-serif;
 }
