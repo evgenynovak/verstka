@@ -1,4 +1,14 @@
 
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
 body {
     font-size: 22px;
     line-height: 34px;
